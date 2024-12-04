@@ -1,5 +1,3 @@
-Here's a README.md for your RAG (Retrieval-Augmented Generation) codebase:# CodebaseRAG
-
 A powerful tool for querying and understanding codebases using RAG (Retrieval-Augmented Generation) with Pinecone vector storage and LLM integration.
 
 ## 🚀 Features
